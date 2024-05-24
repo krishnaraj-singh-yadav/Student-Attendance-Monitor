@@ -17,6 +17,9 @@ The system reads RFID tags and compares them against a list of authorized tags.
 # IR Sensor: 
 Detects the presence of a user and activates the system.
 # LCD Display: 
-Provides feedback to the user, such as "Access Granted" or "Access Denied".
+Provides feedback to the user, such as "Access Granted" or "Access Denied" , show count of student and condition of room light .
 # LED Indicators: 
 Green LED lights up for granted access, and Red LED lights up for denied access.
+Blue LED light up if there is even a single student in the class.
+# Information on excel sheet:
+Student information such as  TIME ,  NAME , REGISTRAtion no.,and GROUP will be fed when RF Tag will be scanned through RF Reader.
